@@ -1,0 +1,14 @@
+name: "vwr"
+title: "Vegetation Water Requirements"
+description: |
+  Vegetation Water Requirements
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "VWR Calcs"
+      href: point_frame_vwr.html
+output: distill::distill_article
